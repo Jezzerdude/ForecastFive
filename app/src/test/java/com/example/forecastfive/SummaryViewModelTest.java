@@ -36,7 +36,7 @@ import io.realm.RealmList;
 @PrepareForTest(Generators.class)
 
 public class SummaryViewModelTest {
-
+    
     @Rule
     private InstantTaskExecutorRule instantTaskExecutorRule = new InstantTaskExecutorRule();
 
