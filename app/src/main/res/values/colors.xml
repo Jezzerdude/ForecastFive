@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/summary_item_background</color>
+    <color name="colorPrimaryDark">#393e4b</color>
+    <color name="colorAccent">@color/summary_item_accent</color>
+
+    <color name="summary_item_background">#5A6277</color>
+    <color name="summary_item_text">#f2f2f2</color>
+    <color name="summary_item_header">#D4B48B</color>
+    <color name="summary_item_accent">#D96D60</color>
+</resources>

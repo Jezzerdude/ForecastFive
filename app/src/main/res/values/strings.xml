@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ForecastFive</string>
+    <string name="error_message">We couldn\'t reach the service to get your forecast and there is no cached data available. Please check your Internet connection</string>
+</resources>
